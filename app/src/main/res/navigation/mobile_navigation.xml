@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@id/nav_radio">
+
+    <fragment
+        android:id="@+id/nav_video"
+        android:name="com.example.mediaplayer.presentation.ui.favourite.FavouriteFragment"
+        android:label="@string/menu_home"
+        tools:layout="@layout/fragment_favourite" >
+        <action
+            android:id="@+id/action_nav_video_to_fragmentInfo"
+            app:destination="@id/fragmentInfo" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_music"
+        android:name="com.example.mediaplayer.presentation.ui.music.MusicFragment"
+        android:label="@string/menu_music"
+        tools:layout="@layout/fragment_music">
+        <action
+            android:id="@+id/action_nav_music_to_fragmentInfo"
+            app:destination="@id/fragmentInfo" />
+    </fragment>
+
+    <fragment
+        android:id="@+id/nav_radio"
+        android:name="com.example.mediaplayer.presentation.ui.radio.RadioFragment"
+        android:label="@string/menu_slideshow"
+        tools:layout="@layout/fragment_radio" />
+    <fragment
+        android:id="@+id/fragmentInfo"
+        android:name="com.example.mediaplayer.presentation.ui.FragmentInfo"
+        android:label="@string/info" >
+        <action
+            android:id="@+id/action_fragmentInfo_to_nav_music"
+            app:destination="@id/nav_music" />
+        <action
+            android:id="@+id/action_fragmentInfo_to_nav_video"
+            app:destination="@id/nav_video" />
+    </fragment>
+</navigation>

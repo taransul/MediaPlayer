@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Плеер</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Медиа Плеер</string>
+    <string name="nav_header_subtitle">https://github.com/taransul/MediaPlayer.git</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Настройки</string>
+
+    <string name="menu_home">ИЗБРАННОЕ</string>
+    <string name="menu_music">МУЗЫКА</string>
+    <string name="menu_slideshow">РАДИО</string>
+    <string name="you_denied_permission">К сожалению, вам отказано в разрешении на доступ к хранилищу!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Привет пустой фрагмент</string>
+    <string name="equalizer">Эквалайзер</string>
+    <string name="delete">удалить</string>
+    <string name="music">МУЗЫКА</string>
+    <string name="video">ИЗБРАННОЕ</string>
+    <string name="radio">РАДИО</string>
+    <string name="info">ИНФО</string>
+</resources>

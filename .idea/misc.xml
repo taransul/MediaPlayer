@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/drawable/ic_baseline_library_music_24.xml" value="0.1" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/drawable/ic_baseline_more_vert_24.xml" value="0.1" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/drawable/ic_baseline_radio_24.xml" value="0.1" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/drawable/ic_baseline_video_library_24.xml" value="0.1" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/drawable/ic_delete_forever.xml" value="0.1" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/drawable/ic_equalizer.xml" value="0.1" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/drawable/ic_menu.xml" value="0.1" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/drawable/ic_menu_camera.xml" value="0.1" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/drawable/ic_pause.xml" value="0.13055555555555556" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/drawable/progress_drawable.xml" value="0.1" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/drawable/side_nav_bar.xml" value="0.1" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/drawable/unselected_bg.xml" value="0.1" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/layout/activity_main.xml" value="0.11666666666666667" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/layout/activity_song_player.xml" value="0.11666666666666667" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/layout/app_bar_main.xml" value="0.21774193548387097" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/layout/content_main.xml" value="0.264" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/layout/controls.xml" value="0.264" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/layout/fragment_home.xml" value="0.11666666666666667" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/layout/fragment_music.xml" value="0.264" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/layout/fragment_slideshow.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/layout/fragment_song_player.xml" value="0.1359375" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/layout/item_layout_music.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/layout/nav_header_main.xml" value="0.4" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/layout/track_item.xml" value="0.4" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/menu/action_mode_menu.xml" value="0.15185185185185185" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/menu/activity_main_drawer.xml" value="0.22312925170068026" />
+        <entry key="..\:/Users/legion/Desktop/New/MediaPlayer/app/src/main/res/menu/main.xml" value="0.2" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/drawable/favorite_border.xml" value="0.10185185185185185" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/drawable/next.xml" value="0.10185185185185185" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/drawable/play_icon.xml" value="0.10185185185185185" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/drawable/playlist.xml" value="0.10185185185185185" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/drawable/previous.xml" value="0.10185185185185185" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/drawable/repeat.xml" value="0.10185185185185185" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/drawable/shuffle.xml" value="0.10185185185185185" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/drawable/volume_available.xml" value="0.10185185185185185" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/layout/activity_main.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/layout/activity_song_player.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/layout/app_bar_main.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/layout/controls.xml" value="0.264" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/layout/fragment_artist_info.xml" value="0.1" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/layout/fragment_info.xml" value="0.24010416666666667" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/layout/fragment_music.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/layout/fragment_slideshow.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/layout/fragment_song_player.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/layout/item_layout_music.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/layout/nav_header_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/layout/track_item.xml" value="0.4" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/menu/action_mode_menu.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/menu/activity_main_drawer.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/menu/main.xml" value="0.16510416666666666" />
+        <entry key="..\:/Users/legion/Desktop/New2/MediaPlayer/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.14722222222222223" />
+        <entry key="..\:/Users/legion/Desktop/New3/MediaPlayer/app/src/main/res/drawable/side_nav_bar.xml" value="0.13854166666666667" />
+        <entry key="..\:/Users/legion/Desktop/New3/MediaPlayer/app/src/main/res/drawable/side_nav_bar_light.xml" value="0.2703125" />
+        <entry key="..\:/Users/legion/Desktop/New3/MediaPlayer/app/src/main/res/drawable/unselected_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/legion/Desktop/New3/MediaPlayer/app/src/main/res/layout/activity_song_player.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/legion/Desktop/New3/MediaPlayer/app/src/main/res/layout/app_bar_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New3/MediaPlayer/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New3/MediaPlayer/app/src/main/res/layout/controls.xml" value="0.23425925925925925" />
+        <entry key="..\:/Users/legion/Desktop/New3/MediaPlayer/app/src/main/res/layout/fragment_favourite.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/legion/Desktop/New3/MediaPlayer/app/src/main/res/layout/fragment_info.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/legion/Desktop/New3/MediaPlayer/app/src/main/res/layout/fragment_music.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/legion/Desktop/New3/MediaPlayer/app/src/main/res/layout/fragment_song_player.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/legion/Desktop/New3/MediaPlayer/app/src/main/res/layout/item_layout_music.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/legion/Desktop/New3/MediaPlayer/app/src/main/res/layout/nav_header_main.xml" value="0.25025641025641027" />
+        <entry key="..\:/Users/legion/Desktop/New3/MediaPlayer/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New4/MediaPlayer/app/src/main/res/drawable/side_nav_bar_light.xml" value="0.2703125" />
+        <entry key="..\:/Users/legion/Desktop/New4/MediaPlayer/app/src/main/res/layout/fragment_music.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New4/MediaPlayer/app/src/main/res/layout/fragment_radio.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New4/MediaPlayer/app/src/main/res/layout/fragment_slideshow.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New5/MediaPlayer/app/src/main/res/layout/activity_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New5/MediaPlayer/app/src/main/res/layout/activity_song_player.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New5/MediaPlayer/app/src/main/res/layout/app_bar_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New5/MediaPlayer/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New5/MediaPlayer/app/src/main/res/layout/controls.xml" value="0.1" />
+        <entry key="..\:/Users/legion/Desktop/New5/MediaPlayer/app/src/main/res/layout/fragment_favourite.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New5/MediaPlayer/app/src/main/res/layout/fragment_info.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New5/MediaPlayer/app/src/main/res/layout/fragment_radio.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New5/MediaPlayer/app/src/main/res/layout/fragment_song_player.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New5/MediaPlayer/app/src/main/res/layout/nav_header_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New5/MediaPlayer/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New7/MediaPlayer/app/src/main/res/drawable/ic_music_player.xml" value="0.2703125" />
+        <entry key="..\:/Users/legion/Desktop/New7/MediaPlayer/app/src/main/res/drawable/ic_skip_previous.xml" value="0.2703125" />
+        <entry key="..\:/Users/legion/Desktop/New7/MediaPlayer/app/src/main/res/drawable/item_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/legion/Desktop/New7/MediaPlayer/app/src/main/res/drawable/play_icon.xml" value="0.2703125" />
+        <entry key="..\:/Users/legion/Desktop/New7/MediaPlayer/app/src/main/res/drawable/radio_icon.xml" value="0.2703125" />
+        <entry key="..\:/Users/legion/Desktop/New7/MediaPlayer/app/src/main/res/drawable/repeat.xml" value="0.1828125" />
+        <entry key="..\:/Users/legion/Desktop/New7/MediaPlayer/app/src/main/res/drawable/shape_horizontal.xml" value="0.2703125" />
+        <entry key="..\:/Users/legion/Desktop/New7/MediaPlayer/app/src/main/res/drawable/shape_horizontal_dark.xml" value="0.18333333333333332" />
+        <entry key="..\:/Users/legion/Desktop/New7/MediaPlayer/app/src/main/res/drawable/shape_radio_icon.xml" value="0.2703125" />
+        <entry key="..\:/Users/legion/Desktop/New7/MediaPlayer/app/src/main/res/drawable/shape_side_nav_bar.xml" value="0.2703125" />
+        <entry key="..\:/Users/legion/Desktop/New7/MediaPlayer/app/src/main/res/drawable/shape_side_nav_bar_light.xml" value="0.2703125" />
+        <entry key="..\:/Users/legion/Desktop/New7/MediaPlayer/app/src/main/res/drawable/side_nav_bar.xml" value="0.2703125" />
+        <entry key="..\:/Users/legion/Desktop/New7/MediaPlayer/app/src/main/res/drawable/side_nav_bar_light.xml" value="0.2703125" />
+        <entry key="..\:/Users/legion/Desktop/New7/MediaPlayer/app/src/main/res/drawable/unselected_bg.xml" value="0.2703125" />
+        <entry key="..\:/Users/legion/Desktop/New7/MediaPlayer/app/src/main/res/drawable/volume_available.xml" value="0.2703125" />
+        <entry key="..\:/Users/legion/Desktop/New7/MediaPlayer/app/src/main/res/layout/content_main.xml" value="0.1" />
+        <entry key="..\:/Users/legion/Desktop/New7/MediaPlayer/app/src/main/res/layout/controls.xml" value="0.19907407407407407" />
+        <entry key="..\:/Users/legion/Desktop/New7/MediaPlayer/app/src/main/res/layout/fragment_music.xml" value="0.1398148148148148" />
+        <entry key="..\:/Users/legion/Desktop/New7/MediaPlayer/app/src/main/res/layout/fragment_radio.xml" value="0.1" />
+        <entry key="..\:/Users/legion/Desktop/New7/MediaPlayer/app/src/main/res/layout/fragment_song_player.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Desktop/New7/MediaPlayer/app/src/main/res/layout/nav_header_main.xml" value="0.19907407407407407" />
+        <entry key="..\:/Users/legion/Desktop/New7/MediaPlayer/app/src/main/res/layout/radio_item.xml" value="0.536" />
+        <entry key="..\:/Users/legion/Desktop/New7/MediaPlayer/app/src/main/res/layout/radio_item_save.xml" value="0.1" />
+        <entry key="..\:/Users/legion/Desktop/New7/MediaPlayer/app/src/main/res/layout/track_item.xml" value="0.19907407407407407" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/drawable-v24/ic_repeat_color_primary_vector.xml" value="0.1398148148148148" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/drawable-v24/ic_repeat_one_black_vector.xml" value="0.1398148148148148" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/drawable-v24/ic_repeat_one_color_primary_vector.xml" value="0.1398148148148148" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/drawable-v24/ic_shuffle_black_vector.xml" value="0.1398148148148148" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/drawable-v24/ic_shuffle_color_primary_vector.xml" value="0.1398148148148148" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/drawable/ic_menu_camera.xml" value="0.2703125" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/drawable/ic_menu_gallery.xml" value="0.2703125" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/drawable/ic_menu_slideshow.xml" value="0.2703125" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/drawable/side_nav_bar.xml" value="0.2703125" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/layout/activity_main.xml" value="0.4" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/layout/activity_song_player.xml" value="0.1" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/layout/app_bar_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/layout/fragment_gallery.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/layout/fragment_home.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/layout/fragment_music.xml" value="0.1" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/layout/fragment_slideshow.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/layout/fragment_song_player.xml" value="0.1" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/layout/item_layout_music.xml" value="0.4" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/layout/nav_header_main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/layout/persistent_bottom_sheet.xml" value="0.264" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/menu/activity_main_drawer.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/GraduateWork/MediaPlayer/app/src/main/res/menu/main.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/legion/Documents/AndroidStudio/MediaPlayer/app/src/main/res/layout/content_main.xml" value="0.25416666666666665" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
